@@ -8,7 +8,8 @@ Quisque finibus leo sed mauris gravida dapibus. Suspendisse porta felis non enim
 
 Tincidunt vel vehicula et, lobortis ut mauris. Vivamus mi eros, eleifend ut scelerisque vitae, rutrum eget sem. Sed odio est, pulvinar sit amet ex sit amet, mattis posuere elit. Curabitur id congue nisi. Etiam magna dui, aliquam eu viverra vitae, dictum a dolor. Nulla quis nisl nec velit fringilla maximus sed convallis tellus.
 
-## Installation
+Installation
+------------
 
 Like other plugins [see](http://sydes.ru/ru/docs/3.x/install-extensions)
 
