@@ -1,7 +1,39 @@
-# test 2 stage
+# Test plugin for SyDES
 
-test for hook
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ultricies blandit convallis. Aliquam ultricies pretium pharetra. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 
-more text
+Phasellus viverra consectetur lorem, nec accumsan turpis condimentum a. Etiam consequat arcu vitae tortor efficitur maximus non et tellus. Aenean tempor lobortis velit, quis molestie turpis gravida non. Ut diam metus, varius sed dolor eget, luctus mollis velit.
 
-add more
+Quisque finibus leo sed mauris gravida dapibus. Suspendisse porta felis non enim pulvinar, eu egestas ante facilisis. Curabitur vel mattis urna. Fusce sit amet pharetra elit, vel ullamcorper ligula. Vivamus orci risus
+
+Tincidunt vel vehicula et, lobortis ut mauris. Vivamus mi eros, eleifend ut scelerisque vitae, rutrum eget sem. Sed odio est, pulvinar sit amet ex sit amet, mattis posuere elit. Curabitur id congue nisi. Etiam magna dui, aliquam eu viverra vitae, dictum a dolor. Nulla quis nisl nec velit fringilla maximus sed convallis tellus.
+
+## Installation
+
+Like other plugins [see](http://sydes.ru/ru/docs/3.x/install-extensions)
+
+## Lisense
+
+This plugin is open-sourced software licensed under the GPL 3 and later
+
+## Any other Heading
+
+* PHP version 5.3 or newer with `--enable-mbstring`.
+* Apache 2.2
+* more staff later...
+
+---
+
+Tags: do something plugin, e-commerce, by core member, super useful, free, opensource, demo
+
+Requires:
+
+* sydes: 3.0.0
+* some-api-provider: 2.3
+
+Tested up to: 3.1
+
+Demo url: http://cooldemo.net/test-plugin-for-sydes
+
+
+
