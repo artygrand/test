@@ -8,7 +8,7 @@ Quisque finibus <span style="color:red;">leo</span> sed mauris gravida dapibus. 
 
     You may use <strong>tags</strong>
 
-Tincidunt vel <strong>vehicula et</strong>, lobortis ut mauris. Vivamus mi eros, eleifend ut scelerisque vitae, rutrum eget sem. Sed odio est, pulvinar sit amet ex sit amet, mattis posuere elit. Curabitur id congue nisi. Etiam magna dui, aliquam eu viverra vitae, dictum a dolor. Nulla quis nisl nec velit fringilla maximus sed convallis tellus.
+Tincidunt vel <strong class="hello">vehicula et</strong>, lobortis ut mauris. <em>Vivamus</em> mi eros, <u>eleifend</u> ut scelerisque vitae, rutrum eget sem. Sed odio est, pulvinar sit amet ex sit amet, mattis posuere elit. Curabitur id congue nisi. Etiam magna dui, aliquam eu viverra vitae, dictum a dolor. Nulla quis nisl nec velit fringilla maximus sed convallis tellus.
 
 Installation
 ------------
