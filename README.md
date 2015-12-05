@@ -4,9 +4,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ultricies blandit
 
 Phasellus viverra consectetur lorem, nec accumsan turpis condimentum a. Etiam consequat arcu vitae tortor efficitur maximus non et tellus. Aenean tempor lobortis velit, quis molestie turpis gravida non. Ut diam metus, varius sed dolor eget, luctus mollis velit.
 
-Quisque finibus leo sed mauris gravida dapibus. Suspendisse porta felis non enim pulvinar, eu egestas ante facilisis. Curabitur vel mattis urna. Fusce sit amet pharetra elit, vel ullamcorper ligula. Vivamus orci risus
+Quisque finibus <span style="color:red;">leo</span> sed mauris gravida dapibus. Suspendisse porta felis non enim pulvinar, eu egestas ante facilisis. Curabitur vel mattis urna. Fusce sit amet pharetra elit, vel ullamcorper ligula. Vivamus orci risus
 
-Tincidunt vel vehicula et, lobortis ut mauris. Vivamus mi eros, eleifend ut scelerisque vitae, rutrum eget sem. Sed odio est, pulvinar sit amet ex sit amet, mattis posuere elit. Curabitur id congue nisi. Etiam magna dui, aliquam eu viverra vitae, dictum a dolor. Nulla quis nisl nec velit fringilla maximus sed convallis tellus.
+    You may use <strong>tags</strong>
+
+Tincidunt vel <strong>vehicula et</strong>, lobortis ut mauris. Vivamus mi eros, eleifend ut scelerisque vitae, rutrum eget sem. Sed odio est, pulvinar sit amet ex sit amet, mattis posuere elit. Curabitur id congue nisi. Etiam magna dui, aliquam eu viverra vitae, dictum a dolor. Nulla quis nisl nec velit fringilla maximus sed convallis tellus.
 
 Installation
 ------------
