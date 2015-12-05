@@ -7,6 +7,7 @@ Phasellus viverra consectetur lorem, nec accumsan turpis condimentum a. Etiam co
 Quisque finibus <span style="color:red;">leo</span> sed mauris gravida dapibus. Suspendisse porta felis non enim pulvinar, eu egestas ante facilisis. Curabitur vel mattis urna. Fusce sit amet pharetra elit, vel ullamcorper ligula. Vivamus orci risus
 
     You may use <strong>tags</strong>
+    <script>alert('xss')</script>
 
 Tincidunt vel <strong class="hello">vehicula et</strong>, lobortis ut mauris. <em>Vivamus</em> mi eros, <u>eleifend</u> ut scelerisque vitae, rutrum eget sem. Sed odio est, pulvinar sit amet ex sit amet, mattis posuere elit. Curabitur id congue nisi. Etiam magna dui, aliquam eu viverra vitae, dictum a dolor. Nulla quis nisl nec velit fringilla maximus sed convallis tellus.
 
@@ -24,6 +25,11 @@ This plugin is open-sourced software licensed under the GPL 3 and later
 * PHP version 5.3 or newer with `--enable-mbstring`.
 * Apache 2.2
 * more staff later...
+
+
+    test script
+    <script>alert('xss')</script>
+
 
 <script>alert('xss')</script>
 
