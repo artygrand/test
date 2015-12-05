@@ -26,7 +26,6 @@ This plugin is open-sourced software licensed under the GPL 3 and later
 * Apache 2.2
 * more staff later...
 
-just text string
 
     test script
     <script>alert('xss')</script>
