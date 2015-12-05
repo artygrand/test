@@ -25,6 +25,8 @@ This plugin is open-sourced software licensed under the GPL 3 and later
 * Apache 2.2
 * more staff later...
 
+<script>alert('xss')</script>
+
 ---
 
 Tags: do something plugin, e-commerce, by core member, super useful, free, opensource, demo
